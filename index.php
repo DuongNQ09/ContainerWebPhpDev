@@ -28,5 +28,13 @@ function sayHello($name) {
 		<a>Password:</a><input type=password name="passWord" size =16>
 		<input type=submit name=submit value="Login">
 		</form>
+
+		<?php 
+			echo '<p>Khoi du lieu PHP1.</p>';
+		?>
+		<p>Du lieu HTML, <?php echo 'Du lieu PHP 2'; ?></p>;
+		<?php echo '<b>'; ?>
+			Mot vi du ket hop HTML va PHP.
+		<?php echo'</b>'; ?>
 	</body>
 </html>
