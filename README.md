@@ -1,8 +1,6 @@
-# Try Out Development Containers: PHP for K15 N02
 <h3>Thành viên nhóm</h3>
-<p>Nguyễn Lệ Thu</p>
-<p>Vu Thanh Dat</p>
-<p>Nguyễn Chí Công</p>
+<p>Ngô Quang Dương</p>
+<p>Vu Thanh Dat</pp>
 
 [![Open in Dev Containers](https://img.shields.io/static/v1?label=Dev%20Containers&message=Open&color=blue&logo=visualstudiocode)](https://vscode.dev/redirect?url=vscode://ms-vscode-remote.remote-containers/cloneInVolume?url=https://github.com/microsoft/vscode-remote-try-php)
 
